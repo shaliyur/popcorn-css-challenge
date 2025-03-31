@@ -1,0 +1,20 @@
+/*COLORS:
+Header background - #FFDBAA
+button - #805215
+Header Text - #553100
+Main background - #D4A76A*/
+
+header {
+  background-color: #FFDBAA;
+  text-decoration-color: #553100;
+}
+
+button{
+  background-color: #805215;
+}
+
+body{
+  background-color: #D4A76A;
+}
+
+
